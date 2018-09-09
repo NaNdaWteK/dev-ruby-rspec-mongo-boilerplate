@@ -19,6 +19,9 @@ That is the initial configuration for a tested ruby app with rspec and mongo dat
 
 #### Run a interactive shell
   `$ make shell`
+  
+#### Visit app
+  `localhost:4567`
 
 ## Down the app
   `$ make down`
