@@ -6,7 +6,7 @@ That is the initial configuration for a tested ruby app with rspec and mongo dat
   `$ make up`
 
 #### Run all test
-  `$ make up`
+  `$ make test`
 
 #### Run tdd test
   `$ make tdd`
